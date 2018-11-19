@@ -1,0 +1,32 @@
+ img{ 
+     width: 55%;
+     height: 30%;
+    border:17px groove white ;
+ }
+
+p { 
+font-family: 'Sedgwick Ave', cursive;
+}
+
+h2{  
+    color: violet;
+    font-family: 'Righteous', cursive;
+}
+ p{ 
+     color:pink;
+ }  
+ body{ 
+ background: url("https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif") fixed center; 
+ text-align:center;  
+
+ }
+  
+ p{ font-family: 'Archivo Black', sans-serif;
+    font-size: 30px;
+  }  
+  
+  
+  
+  
+ 
+     
